@@ -1,6 +1,6 @@
 {
   "name": "@rustjn/rust-nft",
-  "version": "1.0.71",
+  "version": "1.0.72",
   "description": "Description for rust-nft",
   "main": "src/index.js",
   "scripts": {
